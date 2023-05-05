@@ -1,0 +1,77 @@
+"id"~"dateCreated"~"dateModified"~"createdBy"~"createdByName"~"modifiedBy"~"modifiedByName"~"c_otro"~"c_instrumento"~"c_producto"~"c_vehiculo"
+"00127eb9-0ecc-4979-85a0-acc7b86b14cd"~2023-01-27 15:57:07.000~2023-01-27 15:57:07.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~ee57039c-5f61-4b10-9b59-d9b9bcbbee47~Pesca Artesanal~Camión Tipo Turbo
+"0176c67b-35f2-43dc-a8c0-c5d3ec4a43e9"~2023-01-30 17:11:09.000~2023-01-30 17:11:09.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"121e4b0c-b764-4471-822e-b96fb95e400f"~Plátano~Camionetas 100
+"037a9e13-547f-4cfd-9a7b-9ff985a005e5"~2023-01-30 14:34:47.000~2023-01-30 14:34:47.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~b3915ad0-6217-4e3f-b568-fd20b7035876~Producción acuícola~Furgón
+"04d1a858-26c2-4c2e-89e1-60938c88753b"~2023-01-19 22:51:12.000~2023-01-19 22:51:12.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~Yuca~be4a3c85-2868-4828-9e4f-063f82902d04~""~Bicicleta
+"0ac94607-b905-47bb-9229-25c3cb585cce"~2023-02-07 16:54:45.000~2023-02-07 16:54:45.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~f04b9277-69c5-4b27-9bff-9cb75b239376~Queso~Moto
+"0ac9e68e-3aeb-497e-8293-650c94f4a984"~2023-02-01 22:16:46.000~2023-02-01 22:16:46.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~bdf1ed1b-dad5-4bb9-b30b-a17985f1f2d9~Pollo de engorde~Moto
+"0ada3ddc-b938-445e-9b52-38c3e5ea10a9"~2023-01-24 00:23:23.000~2023-01-24 00:23:23.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"29f13132-8d39-435f-8564-8f5d3d77fa1d"~Pesca Artesanal~Moto-Carguero
+"11114538-10f3-4b34-ae17-34469d74150d"~2023-01-20 15:33:39.000~2023-01-20 15:33:39.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~Yuca~bc8cc869-ea02-4d44-85f1-c7e0ea56ecb4~""~Moto
+"12d0222f-6d0d-41a7-984a-39724ad28005"~2023-01-30 04:09:51.000~2023-01-30 04:09:51.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~fbb91509-77c4-4ebd-b0e1-48f15ae20f64~Naranja~Camión Tipo 600
+"17f938bc-4203-406c-9773-97a7adf32ad6"~2023-02-02 13:34:43.000~2023-02-02 13:34:43.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"785a9491-41d4-43ca-8309-d5282389571c"~Leche~Moto-Carguero
+"1c68842e-7084-4cee-b2ac-1e2bf1a3e4d9"~2023-02-07 15:28:40.000~2023-02-07 15:28:40.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"28e04684-d993-49d4-94bc-585bc8425a1c"~Pollo de engorde~Moto
+"1e3d3586-35b7-4cb3-8e47-71852592d780"~2023-02-07 15:04:27.000~2023-02-07 15:04:27.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~e95fc3b6-0d28-428a-9512-4f573a7c308b~""~""
+"2067396c-3667-45cd-8f3b-d88ccff4ae61"~2023-01-26 01:07:38.000~2023-01-26 01:07:38.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"25bf53dd-d213-45eb-abd3-496011a64a8d"~Pesca Artesanal~Moto
+"2089b6c8-3d07-4318-99cb-ada0439f0d66"~2023-02-01 21:12:48.000~2023-02-01 21:12:48.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"50283831-6cad-41d7-96c8-ed87e801c139"~Bovino~Camionetas 350
+"225902d3-3d86-4b89-8b53-eb21fc770faa"~2023-01-27 14:01:58.000~2023-01-27 14:01:58.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~cc62507f-0d46-4a8f-805a-eb63daf75b49~Queso~Moto
+"228a73f7-d343-4a58-bdab-c71f0a2f8486"~2023-01-27 04:30:31.000~2023-01-27 04:30:31.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"10d34715-1429-4cd5-842e-2284e5ae0a15"~Pesca Artesanal~Moto
+"22f7814a-43e4-42ab-ac8f-08d5039d0d3b"~2023-02-07 16:54:46.000~2023-02-07 16:54:46.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~f04b9277-69c5-4b27-9bff-9cb75b239376~Queso~Furgón
+"26ed56a1-8456-44b1-bd71-273030689246"~2023-02-07 17:37:24.000~2023-02-07 17:37:24.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"06bb785f-359f-46fe-8297-48ec823035d4"~""~Moto
+"2bb41dfd-2f1b-43b7-9946-2b15d0e9eb98"~2023-02-02 13:35:09.000~2023-02-02 13:35:09.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"443dacf0-bd5b-4692-9de1-ac865ddc91d9"~Leche~Moto-Carguero
+"2cf836e5-743f-4c39-a043-00d90142322b"~2023-01-18 14:28:02.000~2023-01-18 14:28:02.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~todos menos patilla~e551cdfb-4d21-4edf-9d2e-4553a98eb7ac~""~Moto
+"2f536c85-5f6b-42df-88fb-955f30f031f4"~2023-01-24 16:20:39.000~2023-01-24 16:20:39.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~a4b7e3b3-8b92-44a2-bf3c-4950c247a40c~Maíz~Camión Tipo 600
+"355c9c1f-bc38-45c6-aefe-00200558cc17"~2023-01-28 02:17:12.000~2023-01-28 02:17:12.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"2addaf59-b957-4838-a8a8-ff24292f442d"~Carne porcina~Moto-Carguero
+"357d096f-e74e-4f05-a656-637181ce56a9"~2023-01-26 02:02:37.000~2023-01-26 02:02:37.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~da590b52-aee2-40ec-a435-bda3b8387fdb~""~""
+"39ea2005-7d6d-4a56-b18b-31159d09be54"~2023-01-26 01:08:45.000~2023-01-26 01:08:45.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"8d5bc334-86b1-453c-b1a5-6cd4e37062d5"~Pesca Artesanal~Bicicleta
+"3d587360-fe33-4d34-9312-11a9077e12f3"~2023-02-02 15:04:47.000~2023-02-02 15:04:47.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~Yuca~"56736cf2-d804-479b-b95e-897cebbea547"~""~Camión Tipo Turbo
+"422286dd-2efa-415f-8048-ab37dae29f69"~2023-01-30 13:37:01.000~2023-01-30 13:37:01.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"956bbea1-fbc4-4f55-9922-4609d815ddb0"~Patilla~Camión Tipo Turbo
+"4c3cc687-e922-4bdf-9cba-76ee4907077a"~2023-01-27 17:52:50.000~2023-01-27 17:52:50.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"6e7a7c25-ee6b-45fb-9640-9d1ade5485e2"~Pesca Artesanal~Moto
+"4cb78420-ad76-4b85-b5fb-2af05fdd684b"~2023-01-27 04:30:32.000~2023-01-27 04:30:32.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"10d34715-1429-4cd5-842e-2284e5ae0a15"~Pesca Artesanal~Furgón
+"50057d67-9c46-4d86-bb0b-3b307beb7a63"~2023-01-24 00:23:22.000~2023-01-24 00:23:22.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"29f13132-8d39-435f-8564-8f5d3d77fa1d"~Pesca Artesanal~Moto
+"51975664-67e7-4287-94f0-81e3b792c1e9"~2023-01-26 02:02:33.000~2023-01-26 02:02:33.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~da590b52-aee2-40ec-a435-bda3b8387fdb~Pesca Artesanal~Bicicleta
+"5753371f-d856-44f9-879d-50503eccf42d"~2023-01-30 13:37:02.000~2023-01-30 13:37:02.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"956bbea1-fbc4-4f55-9922-4609d815ddb0"~Yuca~Camión Tipo Turbo
+"5b29fc35-c0cf-4d2c-8941-52f953b8c641"~2023-01-26 21:57:44.000~2023-01-26 21:57:44.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~d29883a0-0c6d-408e-a40c-37f368aab4de~Pesca Artesanal~Moto
+"5bbf52bd-a7d9-49a3-b054-0610d021702d"~2023-02-07 19:21:30.000~2023-02-07 19:21:30.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~b48fd463-dc61-4a08-b91d-c0734c90da95~Pesca Artesanal~Moto
+"5c7ce9fc-b714-4b2a-8739-48d5c050030f"~2023-01-26 01:07:37.000~2023-01-26 01:07:37.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"25bf53dd-d213-45eb-abd3-496011a64a8d"~Pesca Artesanal~Bicicleta
+"5fea04f0-ccce-4e6c-a8f7-a2eaf78ca11d"~2023-02-02 15:04:44.000~2023-02-02 15:04:44.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"56736cf2-d804-479b-b95e-897cebbea547"~Maíz~Moto-Carguero
+"622a9f89-a705-46a1-8565-fecb3259c3cd"~2023-01-25 23:28:10.000~2023-01-25 23:28:10.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~f36b811f-5b2a-4846-8d42-fc1f06989d2d~Pesca Artesanal~Camionetas 150
+"64a8cfa3-7a2f-4c1d-b052-aecc96011555"~2023-01-27 15:58:28.000~2023-01-27 15:58:28.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"30efcda4-7259-40e3-87f6-747dbea77381"~Pesca Artesanal~Camión Tipo Turbo
+"6a139665-9dde-45a1-a7df-d32180def4fc"~2023-02-02 15:04:46.000~2023-02-02 15:04:46.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"56736cf2-d804-479b-b95e-897cebbea547"~Maíz~Camión Tipo Turbo
+"6db66d63-ab42-4931-bb22-924efa409563"~2023-01-19 22:54:52.000~2023-01-19 22:54:52.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~Yuca~bc71c7e2-2938-43e6-a34e-80e4f26c26d1~""~Bicicleta
+"70c95627-11c6-4d27-ac7a-4e6ccf7f4fca"~2023-01-26 02:02:35.000~2023-01-26 02:02:35.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~da590b52-aee2-40ec-a435-bda3b8387fdb~Pesca Artesanal~Moto-Carguero
+"71c3ba24-88db-4241-8055-a412cd625552"~2023-01-25 17:08:57.000~2023-01-25 17:08:57.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~Carreta, carretilla~"47785ad6-f1ac-4928-b581-3c4a6a3966b2"~Pesca Artesanal~""
+"72cbcf2e-763c-480c-bca8-ce5d4a422306"~2023-02-07 15:28:26.000~2023-02-07 15:28:26.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~cc0a36ab-510d-4f69-9600-37a54a71f0bc~Pollo de engorde~Moto
+"7759ca56-c0b1-488f-9602-52cec47c0012"~2023-01-18 16:07:55.000~2023-01-18 16:07:55.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"5a274aa1-3c5e-4b61-b779-583deca08bac"~Pesca Artesanal~Camionetas 350
+"7d9a90c9-cefa-42ae-b5cf-1ecfbd21904e"~2023-01-18 03:05:26.000~2023-01-18 03:05:26.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"7a0eec17-fe9d-4b72-8f3b-5b796778ec26"~Maíz~Moto-Carguero
+"7dbf11dc-a1d9-4344-89ab-d4f954cb3d60"~2023-01-20 15:33:40.000~2023-01-20 15:33:40.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~bc8cc869-ea02-4d44-85f1-c7e0ea56ecb4~Maíz~Moto
+"86190edb-cee3-4cfd-9b32-0d0265162cc4"~2023-01-29 17:38:39.000~2023-01-29 17:38:39.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"9c2c0e2f-1d75-491d-87c8-41cecd13d9ad"~Naranja~Camión Tipo 600
+"86a3121b-5e9c-4b09-ae46-26b3add8e33a"~2023-01-18 03:05:25.000~2023-01-18 03:05:25.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~yuca~"7a0eec17-fe9d-4b72-8f3b-5b796778ec26"~""~Moto
+"8932ee33-13c9-47a6-8025-e47945c8c867"~2023-01-26 21:13:01.000~2023-01-26 21:13:01.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~b4f33f05-aada-4f87-89ad-be31fc60c065~Pesca Artesanal~Moto
+"8caaf525-bc4d-4b42-a2fb-d58691baef45"~2023-01-28 01:30:19.000~2023-01-28 01:30:19.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~c3f6bc15-b6c2-436b-902c-ed49a3bc63e5~Pollo de engorde~Moto-Carguero
+"92ce6676-5169-4a74-a9d4-11e109260a26"~2023-01-30 17:11:10.000~2023-01-30 17:11:10.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"121e4b0c-b764-4471-822e-b96fb95e400f"~Yuca~Moto
+"9c168765-2513-4c28-b974-8d42e293757e"~2023-02-07 14:32:35.000~2023-02-07 14:32:35.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~cfb939a9-cbd9-45f2-8bef-14def1eaef81~Carne porcina~Bicicleta
+"9d93969f-2b52-435f-ae9d-4c92185b5932"~2023-01-26 02:02:34.000~2023-01-26 02:02:34.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~da590b52-aee2-40ec-a435-bda3b8387fdb~Pesca Artesanal~Moto
+"9ec71dd2-e1b5-435e-a280-081d324d48f5"~2023-02-01 23:30:17.000~2023-02-01 23:30:17.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~d8a9a04c-7b68-4f2d-b66d-0cce10edb428~Queso~Moto
+ac27308e-6fd0-417a-b731-2f9112275a8b~2023-01-18 14:28:00.000~2023-01-18 14:28:00.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~e551cdfb-4d21-4edf-9d2e-4553a98eb7ac~Patilla~Furgón
+b2b918d6-da10-4db2-9b38-9a0c1f6d3cb2~2023-01-30 02:09:47.000~2023-01-30 02:09:47.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"690555b6-201a-46e9-8f17-87230425ac1a"~Pollo de engorde~Moto-Carguero
+bc36d864-0aa2-42d0-952a-5ab52bca3b73~2023-01-25 23:28:09.000~2023-01-25 23:28:09.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~f36b811f-5b2a-4846-8d42-fc1f06989d2d~Pesca Artesanal~Camión Tipo Turbo
+bcb49063-19cc-40ca-92fe-7b463123eebf~2023-01-26 01:08:47.000~2023-01-26 01:08:47.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"8d5bc334-86b1-453c-b1a5-6cd4e37062d5"~Pesca Artesanal~Moto-Carguero
+c358787b-5b67-4fbf-9a51-0bfbfdf225f9~2023-02-07 15:04:26.000~2023-02-07 15:04:26.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~e95fc3b6-0d28-428a-9512-4f573a7c308b~Plátano~Moto
+c4d94e34-196d-41ea-854a-8a61e8853e08~2023-01-27 13:24:46.000~2023-01-27 13:24:46.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"10d07d47-3119-4bb4-b0d1-d90cff24309f"~Pesca Artesanal~Camionetas 350
+cad3b6c2-8064-49fb-bfff-7f3c2cc46d67~2023-01-26 01:07:39.000~2023-01-26 01:07:39.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"25bf53dd-d213-45eb-abd3-496011a64a8d"~Pesca Artesanal~Moto-Carguero
+ccb9e771-2891-4ecc-9434-a0e31b9a90f4~2023-01-19 15:12:57.000~2023-01-19 15:12:57.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~d9fa13dc-ddbc-4ec8-a2e9-46d132b833c6~Maíz~Moto
+ce75947e-7e2c-4bed-b9ee-d3ae12051d85~2023-01-19 15:12:58.000~2023-01-19 15:12:58.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~Yuca~d9fa13dc-ddbc-4ec8-a2e9-46d132b833c6~""~Moto-Carguero
+cea96043-c2a9-4c13-ad7f-9c3e9d7ca205~2023-01-24 16:20:40.000~2023-01-24 16:20:40.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~a4b7e3b3-8b92-44a2-bf3c-4950c247a40c~Patilla~Camión Tipo 600
+cf7ed51a-12ea-4b91-8457-5e76ac16dedf~2023-02-01 22:19:01.000~2023-02-01 22:19:01.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~f190d1f6-99b3-4e19-b85a-6bab77a2507b~Pollo de engorde~Moto
+d39cb6da-2647-48d6-9b17-f212771d1f78~2023-01-28 03:12:44.000~2023-01-28 03:12:44.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"9834e4d9-ae91-47f6-bb10-0bf5628b55f4"~Naranja~Camión Tipo 600
+d7719f93-bf06-42a3-91b1-e0a5c26e4ab3~2023-01-30 03:17:30.000~2023-01-30 03:17:30.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~e5e1f3cf-8220-4b49-b348-c13d050fe167~Naranja~Camión Tipo 600
+d7d9115c-37f5-4235-81b7-ed0c017e92d9~2023-01-25 18:19:41.000~2023-01-25 18:19:41.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"365fecda-223e-4a31-9e1a-d1f467ec3201"~Pesca Artesanal~Furgón
+db3ee7ad-81c7-44a5-bfbf-e11879ff57a0~2023-01-27 04:30:30.000~2023-01-27 04:30:30.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"10d34715-1429-4cd5-842e-2284e5ae0a15"~Pesca Artesanal~Bicicleta
+df45e198-3e0a-4441-b98f-831acaf60d62~2023-01-26 02:02:36.000~2023-01-26 02:02:36.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~da590b52-aee2-40ec-a435-bda3b8387fdb~Pesca Artesanal~Camión Tipo 600
+e131cf44-d692-4cac-b65f-fb5013ce15fd~2023-01-18 14:28:01.000~2023-01-18 14:28:01.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~todos menos patilla~e551cdfb-4d21-4edf-9d2e-4553a98eb7ac~""~Moto-Carguero
+e260aff6-99a5-45c7-afc9-1edcdb1947a9~2023-02-02 14:03:31.000~2023-02-02 14:03:31.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~fb2de30a-082c-4ca3-a3f2-fe9a98869c88~Bovino~Camión Tipo Turbo
+e7a1d1f6-dae8-4f45-9de6-b593a46a2a3e~2023-02-02 15:04:45.000~2023-02-02 15:04:45.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~Yuca~"56736cf2-d804-479b-b95e-897cebbea547"~""~Moto-Carguero
+e906a454-62dc-4636-9e60-167dc0b52cfb~2023-01-27 14:51:09.000~2023-01-27 14:51:09.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"48f22483-eaaf-4f92-8a70-77426a2e84f4"~Pesca Artesanal~Furgón
+e9e48efe-01ec-43cd-aa73-c0c2ea3197b7~2023-01-28 02:17:11.000~2023-01-28 02:17:11.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"2addaf59-b957-4838-a8a8-ff24292f442d"~Carne porcina~Furgón
+fba74eb4-7f21-4725-b2c7-6023da56b022~2023-01-27 17:52:49.000~2023-01-27 17:52:49.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"6e7a7c25-ee6b-45fb-9640-9d1ade5485e2"~Pesca Artesanal~Camión Tipo Turbo
+fff985d6-6a3b-48bf-b0e0-0cbda37f4a58~2023-01-26 01:08:46.000~2023-01-26 01:08:46.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~"8d5bc334-86b1-453c-b1a5-6cd4e37062d5"~Pesca Artesanal~Moto

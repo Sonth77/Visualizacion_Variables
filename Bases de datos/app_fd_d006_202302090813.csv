@@ -1,0 +1,11 @@
+id;dateCreated;dateModified;createdBy;createdByName;modifiedBy;modifiedByName;c_Agroindustria;c_otro;c_instrumento;c_finca;c_producto;c_centrosAcopio;c_mayoristas;
+521e07d3-73d2-4b47-916c-a0eea1bb37ee;2023-01-18 15:58:43.000;2023-01-18 15:58:43.000;aeherrerad;Andrés Herrera;aeherrerad;Andrés Herrera;false;;323f8893-2fa7-4ced-928d-4fbefce45079;false;Pesca Artesanal;true;false;
+549ba3db-9d2e-4852-89bf-d7976c256fab;2023-01-18 16:04:24.000;2023-01-18 16:04:24.000;aeherrerad;Andrés Herrera;aeherrerad;Andrés Herrera;false;;4a3a975a-4c21-4042-8f3a-7b513ecb3c95;false;Pesca Artesanal;true;false;
+5babe928-5755-4d66-804e-bb240e639079;2023-01-25 14:34:07.000;2023-01-25 14:34:07.000;aeherrerad;Andrés Herrera;aeherrerad;Andrés Herrera;false;Cienaga;f76f3e03-14fb-43dc-8baa-2400985f69a6;false;Pesca Artesanal;false;false;
+73fb5f26-67a7-40c2-ae9a-efe65bb088eb;2023-01-18 17:04:40.000;2023-01-18 17:04:40.000;aeherrerad;Andrés Herrera;aeherrerad;Andrés Herrera;false;;56ad629f-ea64-4c0a-883b-fe6102ace6f8;true;Maíz;false;false;
+7f528384-4c72-480f-bc48-ace3a7f6903c;2023-01-26 21:55:46.000;2023-01-26 21:55:46.000;aeherrerad;Andrés Herrera;aeherrerad;Andrés Herrera;false;casa;896a27d0-4e61-4f82-af8f-8c4d567e5923;false;Pesca Artesanal;false;false;
+88a7ca64-4945-482f-91f1-626aabd13ec3;2023-01-18 02:57:40.000;2023-01-18 02:57:40.000;aeherrerad;Andrés Herrera;aeherrerad;Andrés Herrera;false;;4fdbb4ac-c251-41a7-be6b-e05f37764bdb;true;Maíz;false;false;
+cef41022-9a02-486b-87dd-d1a7be124157;2023-02-01 15:57:39.000;2023-02-01 15:57:39.000;aeherrerad;Andrés Herrera;aeherrerad;Andrés Herrera;false;Feria; subasta;008c166e-fef8-4336-88d0-0d5774a5e4b5;true;Bovino;false;false
+d4c6bdd2-8759-4939-a98b-92da8fd8ad70;2023-01-18 17:04:39.000;2023-01-18 17:04:39.000;aeherrerad;Andrés Herrera;aeherrerad;Andrés Herrera;false;;56ad629f-ea64-4c0a-883b-fe6102ace6f8;true;Plátano;false;false;
+e87b2665-2f31-4a59-874c-e1fe0e27be0c;2023-01-18 02:57:41.000;2023-01-18 02:57:41.000;aeherrerad;Andrés Herrera;aeherrerad;Andrés Herrera;false;;4fdbb4ac-c251-41a7-be6b-e05f37764bdb;true;;false;false;
+f533076d-ac38-481f-96d3-e6f7a412c6c0;2023-01-30 15:35:45.000;2023-01-30 15:35:45.000;aeherrerad;Andrés Herrera;aeherrerad;Andrés Herrera;false;Puertos;3635b1bd-33fe-41a8-a2a5-f7e23f0d2d9a;true;Pesca Artesanal;false;false;

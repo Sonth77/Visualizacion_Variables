@@ -1,0 +1,18 @@
+"id"~"dateCreated"~"dateModified"~"createdBy"~"createdByName"~"modifiedBy"~"modifiedByName"~"c_sitio"~"c_otro"~"c_instrumento"~"c_otrositio"~"c_producto"
+"05de72be-e88f-4b05-9c7e-ee077903072f"~2023-01-18 03:05:26.000~2023-01-18 03:05:26.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~Tendero~""~"7a0eec17-fe9d-4b72-8f3b-5b796778ec26"~Consumidor~Maíz
+"0a05c9e2-8d12-4644-bb19-f29171d6e0e1"~2023-01-18 03:05:25.000~2023-01-18 03:05:25.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~Tendero~yuca~"7a0eec17-fe9d-4b72-8f3b-5b796778ec26"~Consumidor~""
+"0bc90ea3-1de1-4089-98fc-718adaee5f9c"~2023-01-18 16:07:55.000~2023-01-18 16:07:55.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~""~"5a274aa1-3c5e-4b61-b779-583deca08bac"~esquina comercial~Pesca Artesanal
+"22fa6241-d634-4174-b51b-b6f115c7d660"~2023-02-01 16:01:17.000~2023-02-01 16:01:17.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~Puertos~ganado~b9231efd-8644-4dcf-814c-c196f8c397bd~""~""
+"28e7e0ac-b3f6-480c-87e6-5226f5d75e90"~2023-01-18 17:12:03.000~2023-01-18 17:12:03.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~Tendero~""~"46f11d1e-edcf-446b-9036-691753a6462d"~""~Plátano
+"4d8b849c-bcf2-42a0-a237-826d0e87616f"~2023-01-18 17:12:04.000~2023-01-18 17:12:04.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~Tendero~""~"46f11d1e-edcf-446b-9036-691753a6462d"~""~Maíz
+"7de94b97-ea5a-4cf6-9983-61f785eefcc0"~2023-01-18 17:12:05.000~2023-01-18 17:12:05.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~Tendero~Yuca~"46f11d1e-edcf-446b-9036-691753a6462d"~""~""
+"8174b5cc-debe-43be-bf93-1e304753b14c"~2023-02-01 16:01:19.000~2023-02-01 16:01:19.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~Otras Fincas~ganado~b9231efd-8644-4dcf-814c-c196f8c397bd~""~""
+"8661a279-72d7-45da-8f76-2f04a1c4962a"~2023-01-18 17:07:05.000~2023-01-18 17:07:05.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~Tendero~""~"584b1812-ab85-4224-baae-6d37439c52cc"~""~Maíz
+"92483846-8df4-4238-bb0e-0699320bdcd9"~2023-02-01 16:01:18.000~2023-02-01 16:01:18.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~Exportadores~ganado~b9231efd-8644-4dcf-814c-c196f8c397bd~""~""
+"9b58d1cd-3c95-4272-b407-bcebc5e45154"~2023-01-19 15:12:58.000~2023-01-19 15:12:58.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~Yuca~d9fa13dc-ddbc-4ec8-a2e9-46d132b833c6~Casa o Caseta~""
+a231d18a-9e2a-44ce-a871-010782f08caf~2023-01-18 17:07:04.000~2023-01-18 17:07:04.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~Tendero~""~"584b1812-ab85-4224-baae-6d37439c52cc"~""~Plátano
+cc5bb6b8-26e8-42fd-8020-aff6899b7aca~2023-01-19 15:12:57.000~2023-01-19 15:12:57.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~""~d9fa13dc-ddbc-4ec8-a2e9-46d132b833c6~Casa o Caseta~Maíz
+d552b8ab-5223-4448-9587-eb2a88023fd5~2023-02-01 16:01:16.000~2023-02-01 16:01:16.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~Centros de acopio~ganado~b9231efd-8644-4dcf-814c-c196f8c397bd~""~""
+d716d7bf-adeb-451e-9504-8c91153e5cf8~2023-01-18 17:07:06.000~2023-01-18 17:07:06.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~Tendero~Yuca~"584b1812-ab85-4224-baae-6d37439c52cc"~""~""
+e12c5c79-a453-4c5d-8c90-c1672d291af9~2023-01-25 14:35:29.000~2023-01-25 14:35:29.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~""~"78b1b839-780b-42af-840b-aa02266b05a8"~Casa del consumidor~Pesca Artesanal
+ef5fd506-7cf3-4f80-8262-291689cd7772~2023-01-26 21:57:44.000~2023-01-26 21:57:44.000~aeherrerad~Andrés Herrera~aeherrerad~Andrés Herrera~""~""~d29883a0-0c6d-408e-a40c-37f368aab4de~Cliente~Pesca Artesanal

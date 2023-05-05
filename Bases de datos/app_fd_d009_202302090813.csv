@@ -1,0 +1,12 @@
+id;dateCreated;dateModified;createdBy;createdByName;modifiedBy;modifiedByName;c_tipoServicio;c_cobroPromedio;c_instrumento;c_producto
+08e12337-f4fb-4b9e-ba99-f2c0e64ce88b;2023-01-18 02:57:40.000;2023-01-18 02:57:40.000;aeherrerad;Andrés Herrera;aeherrerad;Andrés Herrera;Por viaje;10000;4fdbb4ac-c251-41a7-be6b-e05f37764bdb;
+161440ec-e0c6-476a-a534-459b93b46cc4;2023-01-18 16:04:24.000;2023-01-18 16:04:24.000;aeherrerad;Andrés Herrera;aeherrerad;Andrés Herrera;Por peso;150000;4a3a975a-4c21-4042-8f3a-7b513ecb3c95;Pesca Artesanal
+1d1f167d-21f1-48f1-a08c-125aea832d09;2022-11-24 00:34:04.000;2022-11-24 00:34:04.000;roleAnonymous;;roleAnonymous;;Por viaje;;ea33c612-6275-44ce-be8c-b87f4bb5ffc4;Limón
+52e0afc8-961d-4d77-98c5-08f803384b42;2023-01-18 17:04:38.000;2023-01-18 17:04:38.000;aeherrerad;Andrés Herrera;aeherrerad;Andrés Herrera;Por viaje;12000;56ad629f-ea64-4c0a-883b-fe6102ace6f8;Plátano
+69cd9fed-5bd3-4bf2-96e9-f7ff54fab977;2023-01-18 15:58:43.000;2023-01-18 15:58:43.000;aeherrerad;Andrés Herrera;aeherrerad;Andrés Herrera;Por peso;150000;323f8893-2fa7-4ced-928d-4fbefce45079;Pesca Artesanal
+7b432c69-178f-4729-868a-7a7acc491126;2023-01-18 17:04:39.000;2023-01-18 17:04:39.000;aeherrerad;Andrés Herrera;aeherrerad;Andrés Herrera;Por viaje;12000;56ad629f-ea64-4c0a-883b-fe6102ace6f8;Maíz
+8652e258-c6a7-46f9-956d-74ad883c109f;2023-02-01 15:57:40.000;2023-02-01 15:57:40.000;aeherrerad;Andrés Herrera;aeherrerad;Andrés Herrera;Por unidad de almacenamiento;;008c166e-fef8-4336-88d0-0d5774a5e4b5;
+b36683a5-9239-41f8-ae2b-8e8b6a8461c9;2023-01-26 21:55:46.000;2023-01-26 21:55:46.000;aeherrerad;Andrés Herrera;aeherrerad;Andrés Herrera;Por viaje;70000;896a27d0-4e61-4f82-af8f-8c4d567e5923;
+d111a0a3-234f-4f3a-b0d1-62d86ecc154e;2022-11-24 00:33:17.000;2022-11-24 00:33:17.000;roleAnonymous;;roleAnonymous;;Por viaje;;64267022-b0d3-4e2c-b0ad-8c5a2b813d93;Limón
+dd70e477-2df1-4dc4-b7d7-60ade940b7a8;2023-02-01 15:57:39.000;2023-02-01 15:57:39.000;aeherrerad;Andrés Herrera;aeherrerad;Andrés Herrera;Por viaje;;008c166e-fef8-4336-88d0-0d5774a5e4b5;
+fef5fef6-e09e-4b46-bdd6-f36daab60b4b;2023-01-18 17:04:40.000;2023-01-18 17:04:40.000;aeherrerad;Andrés Herrera;aeherrerad;Andrés Herrera;Por viaje;12000;56ad629f-ea64-4c0a-883b-fe6102ace6f8;
